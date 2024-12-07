@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+
+.app {
+    margin-top: 20px;
+    font-size: 20px;
+    color: green;
+    font-weight: 500;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+
+.camera {
+    margin-top: -30px;
+    font-size: 25px;
+    margin-left: 1590px;
+    cursor: pointer;
+}
+
+.menu {
+    margin-top: -35px;
+    margin-left: 1650px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+input {
+    margin-left: 40px;
+    padding: 10px 200px 10px 200px;
+    margin-top: 15px;
+    border-radius: 50px;
+}
+
+
+.meta img {
+   margin-left: 600px;
+   margin-top: -130px;
+}
+
+.person img {
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.name {
+    margin-left: 120px;
+    margin-top: -50px;
+    cursor: pointer;
+}
+
+.call {
+    margin-left: 140px;
+    cursor: pointer;
+}
+
+
+.voice {
+    margin-top: -22px;
+    margin-left: 118px;
+    cursor: pointer;
+}
+
+.time {
+    margin-top: -52px;
+    margin-left: 550px;
+    cursor: pointer;
+}
+
+.person2 img {
+    margin-top: 50px;
+    margin-left: 47px;
+    cursor: pointer;
+}
+
+.name2 {
+    margin-left: 117px;
+    margin-top: -45px;
+    cursor: pointer;
+}
+
+.call2 {
+    margin-left: 117px;
+    cursor: pointer;
+}
+
+
+.time2 {
+    margin-top: -50px;
+    margin-left: 548px;
+    cursor: pointer;
+}
+
+.person3 img {
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 45px;
+    cursor: pointer;
+}
+
+.name3 {
+    margin-top: -50px;
+    margin-left: 115px;
+    cursor: pointer;
+}
+
+.call3 {
+    margin-left: 143px;
+    cursor: pointer;                           
+}
+
+.photo {
+    margin-top: -23px;
+    margin-left: 115px;
+    cursor: pointer;
+}
+
+.time3 {
+    margin-left: 547px;
+    margin-top: -45px;
+    cursor: pointer;
+}
+
+
+.person4 img {
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+
+.name4 {
+    margin-top: -55px;
+    margin-left: 112px;
+    cursor: pointer;
+}
+
+
+.call4 {
+    margin-left: 135px;
+    cursor: pointer;
+}
+
+.voice4 {
+    margin-top: -22px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+
+.time4 {
+    margin-top: -53px;
+    margin-left: 552px;
+    cursor: pointer;
+}
+
+.person5 img {
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: 55px;
+    margin-left: 40px;
+}
+
+
+.name5 {
+    margin-top: -53px;
+    margin-left: 115px;
+    cursor: pointer;
+}
+
+.call5 {
+    margin-left: 140px;
+    cursor: pointer;
+}
+
+.voice5  {
+    margin-left: 111px;
+    margin-top: -22px;
+    width: 20px;
+    cursor: pointer;
+}
+
+
+.time5 {
+    margin-top: -55px;
+    margin-left: 556px;
+    cursor: pointer;
+}
+
+.person6 img {
+    border-radius: 50px;
+    margin-top: 55px;
+    margin-left: 38px;
+    cursor: pointer;
+}
+
+.name6 {
+    margin-left: 115px;
+    margin-top: -52px;
+    cursor: pointer;
+}
+
+
+.voice6 {
+    margin-left: 115px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.call6 {
+    margin-left: 115px;
+    cursor: pointer;
+}
+
+
+.time6 {
+    margin-left: 555px;
+    margin-top: -50px;
+    cursor: pointer;
+}
+
+
+.person7 img {
+    border-radius: 50px;
+    cursor: pointer;
+}
